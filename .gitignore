@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-/public/images
-/public/img
+#/public/images
+#/public/img
 
 # production
 /build
