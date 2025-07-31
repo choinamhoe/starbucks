@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# git 정의
+
+```
+git add .
+git add <파일명 또는 폴더명>
+git commit -m "메세지"
+```
+
+```bash
+git add.
+git commit -m "메세지"
+git push
+```
