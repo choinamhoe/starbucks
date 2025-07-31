@@ -71,6 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # git 정의
 
+- git은 코드의 변경 이력을 기록하는 프로그램
+- github는 MS사에서 git를 인터넷에서 사용할 수 있게 도와주는 소프트웨어
+
 ```
 git add .
 git add <파일명 또는 폴더명>
@@ -78,7 +81,14 @@ git commit -m "메세지"
 ```
 
 ```bash
+# 세팅한 이후에는 아래 명령어 통해서 원격 저장소로 바로 보낼수 있음
 git add.
 git commit -m "메세지"
 git push
+```
+
+```bash
+#리엑트 프로젝트는 패키지 설치 후 사용 가능
+npm install
+npm run start
 ```
