@@ -82,6 +82,7 @@ git commit -m "메세지"
 
 ```bash
 # 세팅한 이후에는 아래 명령어 통해서 원격 저장소로 바로 보낼수 있음
+git pull #원격저장소에서 내경로로
 git add.
 git commit -m "메세지"
 git push
